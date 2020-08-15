@@ -4,6 +4,8 @@ This is simple junk-cleaner made for linux OS  especially
 for unbuntu to clear unwanted cache and logs to make space 
 on just one click
 
+
+
 Installation :
 
 sudo apt-get install git
@@ -20,6 +22,7 @@ sudo chmod +x setup
 
 
 Installation completed !......now you can open application using command junk-cleaner or just clicking on desktop icon.
+
 
 
 Uninstallation :
