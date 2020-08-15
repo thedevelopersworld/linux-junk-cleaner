@@ -6,9 +6,6 @@ on just one click
 
 Installation :
 
-Commands to be executed :
-
-
 sudo apt-get install git
 
 sudo apt-get install python3-pip
