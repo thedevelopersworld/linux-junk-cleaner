@@ -19,7 +19,7 @@ sudo chmod +x setup
 ./setup
 
 
-Installation completed !......now you can open application using commnad <junk-cleaner> or just clicking on desktop icon.
+Installation completed !......now you can open application using command junk-cleaner or just clicking on desktop icon.
 
 
 Uninstallation :
@@ -28,4 +28,4 @@ cd linux-junk-cleaner
 
 ./uninstall
 
-Uninstallation completed !......now all the realted files related to this application is removed
+Uninstallation completed !......now all the files related to this application is removed
