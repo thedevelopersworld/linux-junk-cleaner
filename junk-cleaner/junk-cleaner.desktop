@@ -2,7 +2,7 @@
 Name=Junk Cleaner
 Exec=junk-cleaner
 Comment=Start or Stop junk-cleaner
-Terminal=false
+Terminal=true
 Icon=/usr/share/junk-cleaner/favicon.ico
 Type=Application
 Hidden=false
